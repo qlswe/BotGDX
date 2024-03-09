@@ -347,3 +347,4 @@ healthchecksdb
 *.config
 BotGDX/Classes/APIKeysLocal.cs
 BotGDX/Models/Rawg/ApiKeysLocal.cs
+BotGDX.sln
