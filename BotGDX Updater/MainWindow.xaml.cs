@@ -6,7 +6,7 @@ using System.Net;
 using System.Threading;
 using System.Windows;
 
-namespace BotGDX.Updater;
+namespace BotGDX Updater;
 
 /// <summary>
 /// Interaction logic for MainWindow.xaml

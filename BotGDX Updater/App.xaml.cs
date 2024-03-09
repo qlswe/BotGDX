@@ -21,32 +21,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. 
 */
-using System;
+using System.Windows;
 
-namespace BotGDX.Updater;
+namespace BotGDX Updater;
 
 /// <summary>
-/// A class that contains informations about the update status.
+/// Interaction logic for App.xaml
 /// </summary>
-public static class Global
+public partial class App : Application
 {
-	/// <summary>
-	/// The progress of the update installation.
-	/// </summary>
-	public static int UpdateProgress { get; set; }
 
-	/// <summary>
-	/// The link of the file to be updated.
-	/// </summary>
-	public static string ZIPLink { get; set; }
-
-	/// <summary>
-	/// The directory where the file is downloaded.
-	/// </summary>
-	public static string Directory => AppDomain.CurrentDomain.BaseDirectory + @"\UpdatedBotGDXFiles.zip";
-
-	/// <summary>
-	/// The displayed message when the update is installed.
-	/// </summary>
-	public static string InstallMessage { get; set; }
 }

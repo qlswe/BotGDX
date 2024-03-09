@@ -81,8 +81,7 @@ internal void DoStuff()
     Thread.Sleep(2000); // Do nothing for 2 seconds
 }
 ~~~
-5) Do not forget to put the [license](https://github.com/Leo-Corporation/BotGDX/blob/master/LICENSE) header on each `.cs` files:
-~~~ cs
+
 
 /*
 MIT License
