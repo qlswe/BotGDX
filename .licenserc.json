@@ -1,0 +1,17 @@
+{
+    "**/*.cs": [
+        "/*",
+        "MIT License",
+        "",
+        "Copyright (c) WBot-Soft"
+    ],
+    "ignore": [
+        "**/*.Designer.cs",
+        "BotGDX/Properties/",
+        "BotGDX.Fps/",
+        "BotGDX/Ressources/",
+        "BotGDX.Updater/Properties/",
+        "BotGDX.Updater/Resources/",
+        "AssemblyInfo.cs"
+    ]
+}

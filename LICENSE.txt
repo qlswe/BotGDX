@@ -1,0 +1,57 @@
+MIT License
+
+Copyright (c) 2023-2024 WBot-Soft
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Definitions
+
+   but. "SOFTWARE" stands for software called BotGD, including all its components, files, documentation, as well as packages and extensions developed based on it.
+
+   b. "Source code" means the complete set of program code, scripts, page layouts, as well as any other code written in any programming languages, which is compiled by BotGDX software.
+
+   b. "Licensed Software" means any software based on BotGD-Soft, including its improvements, updates and extensions.
+
+2. Author's rights
+
+   a. The author of the BotGDX Software retains full copyright to the Software and its source code.
+
+   b. The author can use the Software and its source code for any purpose, without restrictions.
+
+   B. The author may modify and modify the Software and its source code at his discretion.
+
+3. Distribution and use
+
+   a. Any person or organization who has received a copy of the BotGDX Software or licensed software has the right to distribute and use it for any purpose, including commercial use.
+
+   b. When distributing or using BotGDX Software or licensed software, you must retain this license, including all copyright notices, limitations and disclaimers of any warranties.
+
+4. Disclaimer of warranties
+
+   a. The BotGD Software is provided "as is" without providing any express or implied warranties on the part of the author, including but not limited to the guarantee that the Software will meet the user's requirements or will work without errors.
+
+   b. Neither the author of the BotGDX Software nor any of its participants are liable to any person, organization or any other parties for any direct, indirect, incidental, special, exemplary damages, including but not limited to loss of data, lost profits, damage to reputation or any other damages arising from any use or the inability to use BotGD software, even if the previous party was informed of the possibility of such damages.
+
+5. Saving open source code
+
+   a. Any distribution or use of BotGDX Software or licensed software must keep the Software, its source code and all its components open in accordance with the terms of this license.
+
+   b. The transfer of BotGDX Software or licensed software to a third party must include an indication of this license, including all indications of copyrights, limitations and disclaimers of warranties.
+
+6. Applying the changes
+
+   a. Any changes made to the BotGDX software or its source code must be clearly indicated and documented in the source code.
+
+   b. Changes made to the BotGDX Software or its source code may be distributed and used in accordance with the terms of this license.
+
+7. License validity
+
+   but. This license applies to all persons who have received a copy of the BotGDX Software or licensed software, as well as to all actions related to the use, modification and distribution of the Software and its source code.
+
+   b. In the event of a conflict between this license and any agreements or laws applicable to the use of the BotGDX Software, this license will prevail.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Microsoft.WindowsAPICodePack-Shell (https://www.nuget.org/packages/Microsoft.WindowsAPICodePack-Shell/1.1.0)
+
+(Unable to find license, but the NuGet package link is linked above.)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------

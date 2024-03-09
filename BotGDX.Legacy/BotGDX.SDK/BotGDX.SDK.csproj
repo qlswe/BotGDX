@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Version>1.2.1.2109</Version>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://leo-corporation.github.io/BotGDX-Web/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Leo-Corporation/BotGDX</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Description />
+    <Copyright>© 2021</Copyright>
+    <Company>Léo Corporation</Company>
+    <Authors>Léo Corporation</Authors>
+  </PropertyGroup>
+
+</Project>
