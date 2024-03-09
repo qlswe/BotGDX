@@ -8,13 +8,13 @@
     <UseWindowsForms>True</UseWindowsForms>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <Title>BotGDX</Title>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
     <Authors>WBot-Soft</Authors>
     <Description>BotGDX is a simple game launcher for Windows.</Description>
-    <Copyright>© 2023</Copyright>
-    <PackageProjectUrl>BotGDX.leocorporation.dev</PackageProjectUrl>
+    <Copyright>© 2024</Copyright>
+    <PackageProjectUrl>WBot-soft.my1.ru/BotGDX.html</PackageProjectUrl>
     <PackageIcon>BotGDX.png</PackageIcon>
-    <RepositoryUrl>https://github.com/Leo-Corporation/BotGDX</RepositoryUrl>
+    <RepositoryUrl>https://github.com/qlswe/BotGDX</RepositoryUrl>
     <ApplicationIcon>BotGDX.ico</ApplicationIcon>
   </PropertyGroup>
 

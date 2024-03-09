@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Xalyus_Updater.Properties {
+namespace BotGDX.Updater.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Xalyus_Updater.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Xalyus_Updater.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BotGDX.Updater.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,9 @@ namespace Xalyus_Updater.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Byte[].
         /// </summary>
-        internal static byte[] Xalyus_Updater {
+        internal static byte[] BotGDX.Updater {
             get {
-                object obj = ResourceManager.GetObject("Xalyus_Updater", resourceCulture);
+                object obj = ResourceManager.GetObject("BotGDX.Updater", resourceCulture);
                 return ((byte[])(obj));
             }
         }

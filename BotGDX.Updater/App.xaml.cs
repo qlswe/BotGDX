@@ -23,7 +23,7 @@ SOFTWARE.
 */
 using System.Windows;
 
-namespace Xalyus_Updater;
+namespace BotGDX.Updater;
 
 /// <summary>
 /// Interaction logic for App.xaml

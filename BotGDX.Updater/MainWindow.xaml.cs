@@ -6,7 +6,7 @@ using System.Net;
 using System.Threading;
 using System.Windows;
 
-namespace Xalyus_Updater;
+namespace BotGDX.Updater;
 
 /// <summary>
 /// Interaction logic for MainWindow.xaml
@@ -18,7 +18,7 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
         InitText(); // Load the text
-        Global.ZIPLink = "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Liens/Update%20System/Gavilya/Download.txt";
+        Global.ZIPLink = "https://wbot-soft.my1.ru/BotGDX_Update/Download.txt";
     }
 
     private void CloseBtn_Click(object sender, RoutedEventArgs e)
@@ -31,20 +31,27 @@ public partial class MainWindow : Window
         switch (Thread.CurrentThread.CurrentUICulture.Name) // In each case for the language name
         {
             case "fr-FR": // If the language is French
-                TitleTxt.Text = "Gavilya"; // Title
-                DescriptionTxt.Text = "Gavilya est un lanceur de jeux vidéos."; // Description
+                TitleTxt.Text = "BotGDX"; // Title
+                DescriptionTxt.Text = "BotGDX est un lanceur de jeux vidéos."; // Description
                 DownloadTxt.Text = "Téléchargement en cours"; // Download
                 Global.InstallMessage = "Installation en cours"; // Installation message
                 break;
             case "en-US": // If the language is English
-                TitleTxt.Text = "Gavilya"; // Title
-                DescriptionTxt.Text = "Gavilya is a simple a game launcher."; // Description
+                TitleTxt.Text = "BotGDX"; // Title
+                DescriptionTxt.Text = "BotGDX is a simple a game launcher."; // Description
                 DownloadTxt.Text = "Download in progress"; // Download
                 Global.InstallMessage = "Installation in progress"; // Intallation message
                 break;
             default: // Default
-                TitleTxt.Text = "Gavilya"; // Title
-                DescriptionTxt.Text = "Gavilya is a simple a game launcher."; // Description
+                TitleTxt.Text = "BotGDX"; // Title
+                DescriptionTxt.Text = "BotGDX is a simple a game launcher."; // Description
+                DownloadTxt.Text = "Download in progress"; // Download
+                Global.InstallMessage = "Installation in progress"; // Intallation message
+                break;
+
+            case "ru-RU": // If the language is English
+                TitleTxt.Text = "BotGDX"; // Title
+                DescriptionTxt.Text = "BotGDX is a simple a game launcher."; // Description
                 DownloadTxt.Text = "Download in progress"; // Download
                 Global.InstallMessage = "Installation in progress"; // Intallation message
                 break;
@@ -75,7 +82,7 @@ public partial class MainWindow : Window
         Dispatcher.Invoke(() =>
         {
             Install();
-            Process.Start(AppDomain.CurrentDomain.BaseDirectory + @"\Gavilya.exe");
+            Process.Start(AppDomain.CurrentDomain.BaseDirectory + @"\BotGDX.exe");
             Environment.Exit(0); // Close the app
         });
     }

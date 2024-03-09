@@ -23,7 +23,7 @@ SOFTWARE.
 */
 using System;
 
-namespace Xalyus_Updater;
+namespace BotGDX.Updater;
 
 /// <summary>
 /// A class that contains informations about the update status.

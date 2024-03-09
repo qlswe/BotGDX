@@ -26,5 +26,5 @@ namespace BotGDX.Helpers;
 public static class Context
 {
 	public static string Version => "0.1.2";
-	public static string LastVersionLink => "https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Liens/Update%20System/BotGDX/Version.txt";
+	public static string LastVersionLink => "https://wbot-soft.my1.ru/BotGDX_Update/Version.txt";
 }
