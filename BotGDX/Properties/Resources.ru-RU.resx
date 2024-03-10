@@ -199,7 +199,7 @@
     <value>Закрыть</value>
   </data>
   <data name="XUDoesNotExist" xml:space="preserve">
-    <value>Программа Xalyus Updater не существует, переустановите BotGDX.</value>
+    <value>Программа BotGDX.Updater не существует, переустановите BotGDX.</value>
   </data>
   <data name="CoverSearch" xml:space="preserve">
     <value>Искать обложку игры </value>

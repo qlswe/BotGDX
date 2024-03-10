@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("BotGDX.Fps")]
-[assembly: AssemblyDescription("FPS Counter of BotGDX")]
+[assembly: AssemblyDescription("FPS Counter of Gavilya")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("FpsCounter")]

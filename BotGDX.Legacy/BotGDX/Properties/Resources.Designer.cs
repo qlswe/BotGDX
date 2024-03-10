@@ -2655,7 +2655,7 @@ namespace BotGDX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Xalyus Updater doesn&apos;t exist, please reinstall BotGDX..
+        ///   Looks up a localized string similar to BotGDX.Updater doesn&apos;t exist, please reinstall BotGDX..
         /// </summary>
         public static string XUDoesNotExist {
             get {

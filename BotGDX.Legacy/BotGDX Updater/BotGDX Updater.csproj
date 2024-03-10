@@ -6,7 +6,7 @@
     <RootNamespace>Xalyus_Updater</RootNamespace>
     <UseWPF>true</UseWPF>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <ApplicationIcon>Xalyus Updater.ico</ApplicationIcon>
+    <ApplicationIcon>BotGDX.Updater.ico</ApplicationIcon>
     <Version>2.2.0.2202</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/Leo-Corporation/BotGDX</RepositoryUrl>
@@ -16,11 +16,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Resources\Xalyus Updater.png" />
+    <None Remove="Resources\BotGDX.Updater.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Resources\Xalyus Updater.png" />
+    <Resource Include="Resources\BotGDX.Updater.png" />
   </ItemGroup>
 
   <ItemGroup>

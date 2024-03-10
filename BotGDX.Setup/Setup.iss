@@ -48,7 +48,7 @@ Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescrip
 [Files]
 Source: "E:\BotGDX\BotGDX-main\BotGDX\bin\Debug\net6.0-windows\BotGDX.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "E:\BotGDX\BotGDX-main\BotGDX\bin\Debug\net6.0-windows\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "E:\BotGDX\BotGDX-main\BotGDX Updater\bin\Debug\net6.0-windows\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "E:\BotGDX\BotGDX-main\BotGDX.Updater\bin\Debug\net6.0-windows\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]

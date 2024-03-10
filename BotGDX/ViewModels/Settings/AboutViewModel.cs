@@ -81,7 +81,7 @@ public class AboutViewModel : ViewModelBase
 				}
 
 				_profileData.Save();
-				Sys.ExecuteAsAdmin(Directory.GetCurrentDirectory() + @"\BotGDX Updater.exe"); // Start the updater
+				Sys.ExecuteAsAdmin(Directory.GetCurrentDirectory() + @"BotGDX Updater.exe"); // Start the updater
 				Application.Current.Shutdown(); // Close
 			}
 

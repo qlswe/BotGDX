@@ -52,9 +52,9 @@ public partial class UpdateAvailable : Window
 
 	private void InstallBtn_Click(object sender, RoutedEventArgs e)
 	{
-		if (File.Exists(AppDomain.CurrentDomain.BaseDirectory + @"\Xalyus Updater.exe")) // If Xalyus Updater exist
+		if (File.Exists(AppDomain.CurrentDomain.BaseDirectory + @"\BotGDX.Updater.exe")) // If BotGDX.Updater exist
 		{
-			Sys.ExecuteAsAdmin(AppDomain.CurrentDomain.BaseDirectory + @"\Xalyus Updater.exe"); // Launch the updater
+			Sys.ExecuteAsAdmin(AppDomain.CurrentDomain.BaseDirectory + @"\BotGDX.Updater.exe"); // Launch the updater
 			Environment.Exit(0); // Close BotGDX
 		}
 		else

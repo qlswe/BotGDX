@@ -1,7 +1,7 @@
 ﻿/*
 MIT License
 
-Copyright (c) WBot-Soft
+Copyright (c) Léo Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@ SOFTWARE.
 */
 using System;
 
-namespace BotGDX Updater;
+namespace BotGDX_Updater;
 
 /// <summary>
 /// A class that contains informations about the update status.
@@ -43,7 +43,7 @@ public static class Global
 	/// <summary>
 	/// The directory where the file is downloaded.
 	/// </summary>
-	public static string Directory => AppDomain.CurrentDomain.BaseDirectory + @"\UpdatedBotGDXFiles.zip";
+	public static string Directory => AppDomain.CurrentDomain.BaseDirectory + @"\UpdatedGavilyaFiles.zip";
 
 	/// <summary>
 	/// The displayed message when the update is installed.

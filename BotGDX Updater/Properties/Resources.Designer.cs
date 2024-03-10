@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BotGDX Updater.Properties {
+namespace BotGDX_Updater.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace BotGDX Updater.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BotGDX Updater.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BotGDX_Updater.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,9 @@ namespace BotGDX Updater.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Byte[].
         /// </summary>
-        internal static byte[] BotGDX Updater {
+        internal static byte[] BotGDX_Updater {
             get {
-                object obj = ResourceManager.GetObject("BotGDX Updater", resourceCulture);
+                object obj = ResourceManager.GetObject("BotGDX_Updater", resourceCulture);
                 return ((byte[])(obj));
             }
         }

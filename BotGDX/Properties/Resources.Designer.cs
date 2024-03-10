@@ -2779,7 +2779,7 @@ namespace BotGDX.Properties {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Xalyus Updater doesn&apos;t exist, please reinstall BotGDX..
+        ///   Ищет локализованную строку, похожую на BotGDX.Updater doesn&apos;t exist, please reinstall BotGDX..
         /// </summary>
         public static string XUDoesNotExist {
             get {
