@@ -54,20 +54,20 @@ public partial class MainWindow : Window
 		switch (Thread.CurrentThread.CurrentUICulture.Name) // In each case for the language name
 		{
 			case "fr-FR": // If the language is French
-				TitleTxt.Text = "Gavilya"; // Title
-				DescriptionTxt.Text = "Gavilya est un lanceur de jeux vidéos."; // Description
+				TitleTxt.Text = "BotGDX"; // Title
+				DescriptionTxt.Text = "BotGDX est un lanceur de jeux vidéos."; // Description
 				DownloadTxt.Text = "Téléchargement en cours"; // Download
 				Global.InstallMessage = "Installation en cours"; // Installation message
 				break;
 			case "en-US": // If the language is English
-				TitleTxt.Text = "Gavilya"; // Title
-				DescriptionTxt.Text = "Gavilya is a simple a game launcher."; // Description
+				TitleTxt.Text = "BotGDX"; // Title
+				DescriptionTxt.Text = "BotGDX is a simple a game launcher."; // Description
 				DownloadTxt.Text = "Download in progress"; // Download
 				Global.InstallMessage = "Installation in progress"; // Intallation message
 				break;
 			default: // Default
-				TitleTxt.Text = "Gavilya"; // Title
-				DescriptionTxt.Text = "Gavilya is a simple a game launcher."; // Description
+				TitleTxt.Text = "BotGDX"; // Title
+				DescriptionTxt.Text = "BotGDX is a simple a game launcher."; // Description
 				DownloadTxt.Text = "Download in progress"; // Download
 				Global.InstallMessage = "Installation in progress"; // Intallation message
 				break;
