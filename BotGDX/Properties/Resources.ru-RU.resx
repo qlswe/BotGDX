@@ -316,7 +316,7 @@
     <value>Ваши игры успешно экспортированы.</value>
   </data>
   <data name="GavFiles" xml:space="preserve">
-    <value>Файлы G4V</value>
+    <value>Файлы BotGDX1</value>
   </data>
   <data name="ImportConfirmMsg" xml:space="preserve">
     <value>Текущие игры будут заменены новыми, отменить эту операцию невозможно. Хотите продолжить?</value>
@@ -511,7 +511,7 @@
     <value>ОБЩЕЕ ВРЕМЯ ИГРЫ</value>
   </data>
   <data name="HourShort" xml:space="preserve">
-    <value>час</value>
+    <value>ч.</value>
   </data>
   <data name="Top10MostPlayedGames" xml:space="preserve">
     <value>ТОП-10 САМЫХ ИГРАЕМЫХ ИГР</value>
@@ -658,7 +658,7 @@
     <value>Библиотека</value>
   </data>
   <data name="MyProfile" xml:space="preserve">
-    <value>мой профиль</value>
+    <value>Мой профиль</value>
   </data>
   <data name="NoStatistics" xml:space="preserve">
     <value>На данный момент нет статистики, которую можно было бы показать.</value>
@@ -856,10 +856,10 @@
     <value>Игры</value>
   </data>
   <data name="GamesL" xml:space="preserve">
-    <value>игры</value>
+    <value>Игры</value>
   </data>
   <data name="GameL" xml:space="preserve">
-    <value>игра</value>
+    <value>Игра</value>
   </data>
   <data name="NumberResults" xml:space="preserve">
     <value>Количество результатов для отображения</value>
@@ -1006,7 +1006,7 @@
     <value>ничего не найдено</value>
   </data>
   <data name="MigrateFromV3" xml:space="preserve">
-    <value>Миграция с версии 3</value>
+    <value>Миграция с версии 1</value>
   </data>
   <data name="KeybordShortcut" xml:space="preserve">
     <value>Сочетание клавиш</value>
