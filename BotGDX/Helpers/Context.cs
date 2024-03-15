@@ -25,6 +25,6 @@ SOFTWARE.
 namespace BotGDX.Helpers;
 public static class Context
 {
-	public static string Version => "0.1.2";
+	public static string Version => "0.1.3";
 	public static string LastVersionLink => "https://wbot-soft.my1.ru/BotGDX_Update/Version.txt";
 }
