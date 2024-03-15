@@ -1035,4 +1035,7 @@
   <data name="ThisWeek" xml:space="preserve">
     <value>На этой неделе</value>
   </data>
+  <data name="News" xml:space="preserve">
+    <value>Новости дня от нашей студии:</value>
+  </data>
 </root>
