@@ -116,6 +116,8 @@
                                 Foreground="{DynamicResource Foreground}" />
                         </Button.ToolTip>
                     </Button>
+
+
                     <Button
                         Name="PinBtn"
                         Grid.Column="9"
