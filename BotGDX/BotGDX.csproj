@@ -8,7 +8,7 @@
     <UseWindowsForms>True</UseWindowsForms>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <Title>BotGDX</Title>
-    <Version>0.1.2</Version>
+    <Version>0.1.4</Version>
     <Authors>WBot-Soft</Authors>
     <Description>BotGDX is a simple game launcher for Windows.</Description>
     <Copyright>© 2024</Copyright>

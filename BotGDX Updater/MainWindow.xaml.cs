@@ -65,8 +65,20 @@ public partial class MainWindow : Window
 				DownloadTxt.Text = "Download in progress"; // Download
 				Global.InstallMessage = "Installation in progress"; // Intallation message
 				break;
-			default: // Default
+			case "ru-RU": // If the language is Russian
 				TitleTxt.Text = "BotGDX"; // Title
+				DescriptionTxt.Text = "BotGDX — простой лаунчер для игр."; // Description
+				DownloadTxt.Text = "Идет загрузка"; // Download
+				Global.InstallMessage = "安裝正在進行中"; // Intallation message
+				break;
+			case "zh-CN": // If the language is English
+				TitleTxt.Text = "BotGDX"; // Title
+				DescriptionTxt.Text = "BotGDX 是一個簡單的遊戲啟動器。"; // Description
+				DownloadTxt.Text = "載入中"; // Download
+				Global.InstallMessage = ""; // Intallation message
+				break;				
+			default: // Default
+				TitleTxt.Text = "BotGDX"; // Title Chinese
 				DescriptionTxt.Text = "BotGDX is a simple a game launcher."; // Description
 				DownloadTxt.Text = "Download in progress"; // Download
 				Global.InstallMessage = "Installation in progress"; // Intallation message
