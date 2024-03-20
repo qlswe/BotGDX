@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BotGDX Updater/4.0.0.2402": {
+        "runtime": {
+          "BotGDX Updater.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BotGDX Updater/4.0.0.2402": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
